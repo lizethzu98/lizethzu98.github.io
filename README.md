@@ -10,6 +10,7 @@ Pagina web de ventas de bicicletas, pequeño emprendimiento de ventas en línea 
 <h2 aling="center">Prototipado </h2>
 <img class="img-logo" src="/proyecto Biciclub/img/Prototipado Simple-1.png" class="logo" alt=logotipo height="250"/>
 
-##Tecnologías Utilizadas 
-*[http](http)
-*[css](css)
+<h2 aling="center">Tecnologías Utilizadas </h2>
+
+*[http](#http)
+*[css](#css)
