@@ -7,5 +7,9 @@
 Pagina web de ventas de bicicletas, pequeño emprendimiento de ventas en línea en la ciudad de México. Bicicletas de gama media y alta de montañismo.
 <h3 aling="center">:construction: proyecto en construcción :construction: </h3>
 
-<h2 aling="center">PROTOTIPADO </h2>
+<h2 aling="center">Prototipado </h2>
 <img class="img-logo" src="/proyecto Biciclub/img/Prototipado Simple-1.png" class="logo" alt=logotipo height="250"/>
+
+##Tecnologías Utilizadas 
+*[http](http)
+*[css](css)
